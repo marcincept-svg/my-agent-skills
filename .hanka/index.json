@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "slug": "komunikat-specjalny",
+    "filePath": "skills/komunikat-specjalny/SKILL.md",
+    "name": "Komunikat specjalny",
+    "description": "brak",
+    "tags": [],
+    "category": "general",
+    "version": "1.0.0",
+    "public": false,
+    "created": "2026-08-12",
+    "updated": "2026-08-12",
+    "fileCount": 1
+  }
+]
